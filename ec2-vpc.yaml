@@ -55,7 +55,6 @@ Parameters:
           CidrIp: 0.0.0.0/0
       VpcId: !Ref VPC
         
-
   EC2Instance:
     Type: AWS::EC2::Instance
     Properties:
