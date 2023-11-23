@@ -1,5 +1,5 @@
 # Infrastructure-as-Code
-We have the Infrastructure-as-Code repo, in that repo we the one module directory.
+We have the Infrastructure-as-Code repo, in that repo we the one module directory. 
 in module directory we have two directory 1. vpc 2. security.
 vpc dir ---> create the Virtual Private Cloud, subnet, internet getway, routetable, routetable association
 securiry ---> create the securiry group, inress and egres roles. 
